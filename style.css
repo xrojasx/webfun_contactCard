@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 960px;
+    padding: 30px;
+}
+
+#text, #card{
+    display: inline-block;
+    vertical-align: top;
+}
+.newcontact{
+    display: block;
+    width: 200px;
+    height: 75px;
+    border: solid black;
+    margin-top: 20px;
+
+}
+
+
